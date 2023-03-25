@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.finder{
+    margin: 20px;
+}
+.pinfinder{
+    display: flex;
+    flex-direction: column;
+}
+.pinfinder button{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+.pinfinder input{
+    padding: 10px;
+}
+.pinfinder .ele{
+    margin-bottom: 10px;
+}
+.hide{
+    display: none;
+}
+.filterAction{
+    display: flex;
+    flex-direction: column;
+}
+.filterAction .ele{
+    margin-bottom: 10px;
+}
+.filterAction button{
+    width: 100px;
+    height: 30px;
+    background-color: black;
+    color: white;
+}
+.filterAction input{
+    padding: 10px;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.container div{
+    padding: 5px;
+}
+.item{
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 30%;
+    padding: 10px;
+}
