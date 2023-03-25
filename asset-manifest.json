@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/postalfinder_india_react/static/css/main.b15de849.css",
+    "main.js": "/postalfinder_india_react/static/js/main.73c817ee.js",
+    "index.html": "/postalfinder_india_react/index.html",
+    "main.b15de849.css.map": "/postalfinder_india_react/static/css/main.b15de849.css.map",
+    "main.73c817ee.js.map": "/postalfinder_india_react/static/js/main.73c817ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b15de849.css",
+    "static/js/main.73c817ee.js"
+  ]
+}
