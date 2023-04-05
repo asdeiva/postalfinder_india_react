@@ -18,8 +18,7 @@ You can also use the filter input field to search for specific postal data based
 # Technologies Used
 This app was built using the following technologies:
 
-React
-CSS
+React & CSS
 
 # Functionality
 Users can enter a 6 digit pincode to retrieve postal data.
