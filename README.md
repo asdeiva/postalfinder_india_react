@@ -1,4 +1,4 @@
-# postalfinder_india_react
+# postalfinder_india_react deploy link : https://asdeiva.github.io/postalfinder_india_react/
 ## Pincode Lookup App
 This is a React-based web application that allows users to search for postal data by entering a pincode. The app uses an API provided by https://api.postalpincode.in to retrieve the data and display it on the page.
 
